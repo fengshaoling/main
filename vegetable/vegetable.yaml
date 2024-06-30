@@ -1,0 +1,7 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 12
+names: ['beet', 'bell_pepper', 'cabbage', 'carrot', 'cucumber', 'eggplant', 'garlic', 'onion', 'potato', 'tomato', 'zucchini']
+
